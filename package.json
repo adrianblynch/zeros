@@ -1,0 +1,28 @@
+{
+  "name": "zeros",
+  "version": "1.0.0",
+  "description": "Pad/Mask a number with zeros",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrianblynch/zeros.git"
+  },
+  "keywords": [
+    "mask",
+    "zero",
+    "padding"
+  ],
+  "author": "Adrian Lynch <adi_ady_ade@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianblynch/zeros/issues"
+  },
+  "homepage": "https://github.com/adrianblynch/zeros",
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.4"
+  }
+}
