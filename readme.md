@@ -1,5 +1,7 @@
 # Zeros
 
+[![Build Status](https://travis-ci.org/adrianblynch/zeros.svg?branch=master)](https://travis-ci.org/adrianblynch/zeros)
+
 Pad a number with zeros.
 
 ## Usage
