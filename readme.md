@@ -7,7 +7,7 @@ Pad a number with zeros.
 ## Usage
 
 ```
-var zeros = require("zeros")
+var zeros = require("zeros-masker")
 
 zeros(123, "0000")  // "0123"
 
