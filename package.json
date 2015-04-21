@@ -1,5 +1,5 @@
 {
-  "name": "zeros",
+  "name": "zeros-masker",
   "version": "1.0.0",
   "description": "Pad/Mask a number with zeros",
   "main": "index.js",
